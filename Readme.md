@@ -23,10 +23,10 @@ Based on the EDA and dashboard visualizations, the primary drivers of employee a
 
 ## 📂 Repository Structure
 * **[`notebooks/`](./notebooks/)**: Contains the Python Jupyter Notebook ([`data_cleaning.ipynb`](./notebooks/data_cleaning.ipynb)) used for raw data preprocessing, handling data quality issues, and conducting Exploratory Data Analysis (EDA).
-* **[`deliverables/`](./deliverables/)**: Contains formal PDF reports generated for this project:
-  * [Business_Insights.pdf](./deliverables/Business_Insights.pdf) - Final actionable recommendations for HR.
-  * [Data_Cleaning_Reports.pdf](./deliverables/Data_Cleaning_Reports.pdf) - Documentation of data formatting and cleaning steps.
-  * [EDA_Report.pdf](./deliverables/EDA_Report.pdf) - Detailed statistical findings and visual charts.
+* **[`Deliverables/`](./Deliverables/)**: Contains formal PDF reports generated for this project:
+  * [Business_Insights.pdf](./Deliverables/Business_Insights.pdf) - Final actionable recommendations for HR.
+  * [Data_Cleaning_Reports.pdf](./Deliverables/Data_Cleaning_Reports.pdf) - Documentation of data formatting and cleaning steps.
+  * [EDA_Report.pdf](./Deliverables/EDA_Report.pdf) - Detailed statistical findings and visual charts.
     
 ## 🛠️ Tech Stack Used
 * **Data Cleaning & EDA:** Python (Pandas, NumPy, Matplotlib, Seaborn)
